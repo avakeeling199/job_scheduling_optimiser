@@ -77,6 +77,9 @@ This will iterate over combinations of population, mutation rate, λ, and genera
 ### 📬 Contact
 
 **Author**: Ava Keeling
+
 **Email**: ava.keeling@students.plymouth.ac.uk
+
 **Course**: MSc Health Data Science
+
 **Module**: COMP5012 - Computational Intelligence
