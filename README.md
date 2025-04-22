@@ -14,7 +14,7 @@ The problem is inspired by real-world scenarios where workers have limited avail
 📘 **COMP5012 Coursework Report**  
 Submitted as part of the MSc in Health Data Science — University of Plymouth (2025)
 
-See `report.pdf` for full methodology, parameter tuning process, results, Pareto front analysis, and validity checks.
+See `COMP5012_Report.pdf` for full methodology, parameter tuning process, results, Pareto front analysis, and validity checks.
 
 ---
 
